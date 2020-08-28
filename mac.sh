@@ -1,6 +1,8 @@
 
 source ~/shell/conda.sh
-# source ~/shell/maven.sh
+
+source ~/shell/java.sh
+source ~/shell/maven.sh
 
 # alias readlink=greadlink
 

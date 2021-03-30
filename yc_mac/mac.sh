@@ -7,3 +7,4 @@ source ~/my-shell/yc_mac/conda.sh
 # alias readlink=greadlink
 
 # source ~/shell/android.sh
+source ~/my-shell/yc_mac/mysql.sh
